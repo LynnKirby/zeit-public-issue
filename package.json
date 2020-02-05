@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "echo 'foo'"
+    "now-build": "echo 'foo'"
   },
   "dependencies": {
     "now": "^16.7.3"
